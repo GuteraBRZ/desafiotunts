@@ -7,3 +7,5 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 #Then run p3.py on IDLE ( you can also run this with the command: python p3.py )
 
 If done correct the content on the table should change to the correct status based on the rules.
+
+(the keys.json file should be in the same path of p3.py file)
